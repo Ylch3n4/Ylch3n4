@@ -6,4 +6,4 @@
 
 ###
 
-![Isometric Calendar](https://metrics.lecoq.io/YIch3n4?template=classic&base=header&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year)
+![Metrics](https://github.com/Ylch3n4/Ylch3n4/blob/main/github-metrics.svg)

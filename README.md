@@ -8,4 +8,4 @@
 
 ## 📊 Isometric Calendar
 
-![Isometric Calendar](https://metrics.lecoq.io/Ylch3n4?template=classic&base=header&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year)
+![Isometric Calendar](https://gist.githubusercontent.com/Ylch3n4/8c312dd4cfd673e2af48be7e15b4b752/raw/readme.svg)
